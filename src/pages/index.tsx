@@ -311,7 +311,7 @@ export default function Home() {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-              <a href="mailto:rosantibanezs@gmail.com" 
+              <a href="mailto:devrodrigoss@gmail.com" 
                  className="bg-blue-500 hover:bg-blue-600 px-8 py-4 rounded-full font-medium flex items-center justify-center gap-2 transition-all hover:scale-105 shadow-lg shadow-blue-500/30">
                 <Mail size={20} /> Enviar Email
               </a>
