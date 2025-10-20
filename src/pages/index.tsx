@@ -156,7 +156,7 @@ export default function Home() {
                  className="text-slate-400 hover:text-blue-400 transition-all hover:scale-110">
                 <Linkedin size={28} />
               </a>
-              <a href="mailto:rosantibanezs@gmail.com"
+              <a href="mailto:devrodrigoss@gmail.com"
                  className="text-slate-400 hover:text-emerald-400 transition-all hover:scale-110">
                 <Mail size={28} />
               </a>
