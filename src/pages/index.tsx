@@ -315,7 +315,7 @@ export default function Home() {
                  className="bg-blue-500 hover:bg-blue-600 px-8 py-4 rounded-full font-medium flex items-center justify-center gap-2 transition-all hover:scale-105 shadow-lg shadow-blue-500/30">
                 <Mail size={20} /> Enviar Email
               </a>
-              <a href="https://linkedin.com/in/rodrigo-santibanez" target="_blank" rel="noopener noreferrer"
+              <a href="https://linkedin.com/in/rodrigo-santibañez" target="_blank" rel="noopener noreferrer"
                  className="bg-slate-700 hover:bg-slate-600 px-8 py-4 rounded-full font-medium flex items-center justify-center gap-2 transition-all hover:scale-105">
                 <Linkedin size={20} /> LinkedIn
               </a>
