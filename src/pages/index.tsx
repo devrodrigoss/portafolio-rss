@@ -152,7 +152,7 @@ export default function Home() {
                  className="text-slate-400 hover:text-white transition-all hover:scale-110">
                 <Github size={28} />
               </a>
-              <a href="https://linkedin.com/in/rodrigo-santibanez" target="_blank" rel="noopener noreferrer"
+              <a href="https://linkedin.com/in/rodrigo-santibañez" target="_blank" rel="noopener noreferrer"
                  className="text-slate-400 hover:text-blue-400 transition-all hover:scale-110">
                 <Linkedin size={28} />
               </a>
